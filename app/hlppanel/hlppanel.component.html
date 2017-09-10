@@ -1,0 +1,10 @@
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <strong>Help</strong>
+        <a class="be-green pull-right" (click)="changePanelStatus()">close</a>
+    </div>
+    <div class="panel-body collapse" [ngClass]="{in: isClosed===false}">
+        <i class="fa fa-life-ring fa-5x be-gray"></i>
+        <p>{{text}}</p>
+    </div>
+</div>

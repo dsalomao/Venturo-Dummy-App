@@ -1,0 +1,16 @@
+div.panel-body.collapse i {
+    float: left;
+    margin: 0 20px 10px 0;
+}
+
+div.panel-body.collapse p {
+    text-align: justify;
+}
+
+.be-gray {
+    color: #9b9b9b;
+}
+
+div.panel-heading a:after {
+    content: " \2191";
+}
