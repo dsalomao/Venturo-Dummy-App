@@ -30,8 +30,8 @@ I started the development process preparing the application so it supports angul
 Having this done i continued upgrading the application have the test documentation you guys sent me. 
 
 # Observations
-I used bootstrap as the grid system. I also used its clases in some of the content cause, as specified, i had 1 year of expirience with Angular Js and it took me some time to get ready. So i had no time to focus on css. Even though Angular 2 is an iteration, its paradigm changed quite much. That said Angular 2 usage was almost a new development expirience for me. What helped me was the programming bases, knoledge in MVC pattern and JAVA expirience. So i know mu code is not as pristine as it could be.
+I used bootstrap as the grid system. I also used its clases in some of the content cause, as specified, i had 1 year of experience with Angular Js and it took me some time to get ready. So i had no time to focus on css. Even though Angular 2 is an iteration, its paradigm changed quite much. That said Angular 2 usage was almost a new development expirience for me. What helped me was the programming bases, knoledge in MVC pattern and JAVA expirience. So i know mu code is not as pristine as it could be.
 Tryed to do the editing and removal of bikers as well but for some reason wasnt abble to make the DELETE requests through the HTTP, HTTPRequest Angular components before time runned out. 
 
 # Final Thoughts
-I really enjoyed developing this task, i love working with these support develoment tools, and in a well structured project like Angular 2 and Angular Js rovides. Had a look at Venturo's web site and got very excited for what it can bring to my expirience. Hoping to receive good news from you guys. Thank you all.
+I really enjoyed developing this task, i love working with these support develoment tools, and in a well structured project like Angular 2 and Angular Js rovides. Had a look at Venturo's web site and got very excited for what it can bring to my experience. Hoping to receive good news from you guys. Thank you all.
