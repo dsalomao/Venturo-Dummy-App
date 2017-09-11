@@ -14,18 +14,18 @@ I utilized npm javascript module loader to load and manage project dependencies.
 7 - run "npm start" this command will start the development server url: "localhost:3000/dummy"   
 
 # Thinking process
-I started the development process preparing the application so it supports angular and the supporting development tools that would be used to create the angular client side of the application and preparing the back-end services that will support angular by providing storing application data, responding to HTTP requests, and authenticating users. 
-    1.1 - created the folder structure
-    1.2 - Installed the NPM Packages
-    1.3 - Prepared the RESTful Web Service
-    1.4 - Configured TypeScript
-    1.5 - Configured the development HTTP Server
-    1.5 - Configured the Javascript Module Loader
-    1.6 - Created the Reactive Extensions Javascript Module
-    1.7 - Created the index.html HTML file
-    1.8 - Created the root component, root module and bootstrap file
-    1.9 - Added the javascript module loader to the Html Files
-    1.10 - Started the Data Model, "dummy" datasource, and the data repository (this garantees the separation of concerns)
+I started the development process preparing the application so it supports angular and the supporting development tools that would be used to create the angular client side of the application and preparing the back-end services that will support angular by providing storing application data, responding to HTTP requests, and authenticating users.   
+    1.1 - created the folder structure   
+    1.2 - Installed the NPM Packages  
+    1.3 - Prepared the RESTful Web Service   
+    1.4 - Configured TypeScript  
+    1.5 - Configured the development HTTP Server  
+    1.5 - Configured the Javascript Module Loader  
+    1.6 - Created the Reactive Extensions Javascript Module  
+    1.7 - Created the index.html HTML file  
+    1.8 - Created the root component, root module and bootstrap file  
+    1.9 - Added the javascript module loader to the Html Files  
+    1.10 - Started the Data Model, "dummy" datasource, and the data repository (this garantees the separation of concerns)  
     
 Having this done i continued upgrading the application have the test documentation you guys sent me. 
 
