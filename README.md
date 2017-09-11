@@ -7,9 +7,8 @@ I utilized npm javascript module loader to load and manage project dependencies.
 1 - download and install node.js   
 2 - download and install npm.   
 3 - run "npm install" inside main foulder (this ill install all package.json dependencies)   
-4 - run "npm run typings install"  
-  this command install the TypeScript type definitions containded in typings.json     
-5 - run "node ./rxModuleBuilder.js" this command will create a module containing all the reactive extensions functionality, along with aditional information that SystemJs needs to resolve dependencies.     
+4 - run "npm run typings install"  (this command install the TypeScript type definitions containded in typings.json)        
+5 - run "node ./rxModuleBuilder.js" this command will create a module containing all the reactive extensions functionality, along with        aditional information that SystemJs needs to resolve dependencies.     
 6 - run "npm start" this command will start the development server url: "localhost:3000/dummy"   
 
 # Thinking process
