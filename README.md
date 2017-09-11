@@ -3,15 +3,15 @@
 this is the complete test project for the venturo dummy app.
 
 # Running the project:
-I utilized npm javascript module loader to load and manage project dependencies.
-1 - download and install node.js \n
-2 - download and install npm. \n
-3 - run "npm install" inside main foulder (this ill install all package.json dependencies)
-4 - run "npm run typings -- install dt~core-js --save --global"
-5 - run "npm run typings -- install dt~node --save --global"
-  this two later commands install the TypeScript Compiler typins and configs for better angula usage and translation of the typescript       language to javascript so older browsers may run the application as well
-6 - run "node ./rxModuleBuilder.js" this command will create a module containing all the reactive extensions functionality, along with aditional information that SystemJs needs to resolve dependencies. 
-7 - run "npm start" this command will start the development server url: "localhost:3000/dummy"
+I utilized npm javascript module loader to load and manage project dependencies.  
+1 - download and install node.js   
+2 - download and install npm.   
+3 - run "npm install" inside main foulder (this ill install all package.json dependencies)   
+4 - run "npm run typings -- install dt~core-js --save --global"   
+5 - run "npm run typings -- install dt~node --save --global"   
+  this two later commands install the TypeScript Compiler typins and configs for better angula usage and translation of the typescript       language to javascript so older browsers may run the application as well   
+6 - run "node ./rxModuleBuilder.js" this command will create a module containing all the reactive extensions functionality, along with aditional information that SystemJs needs to resolve dependencies.     
+7 - run "npm start" this command will start the development server url: "localhost:3000/dummy"   
 
 # Thinking process
 I started the development process preparing the application so it supports angular and the supporting development tools that would be used to create the angular client side of the application and preparing the back-end services that will support angular by providing storing application data, responding to HTTP requests, and authenticating users. 
