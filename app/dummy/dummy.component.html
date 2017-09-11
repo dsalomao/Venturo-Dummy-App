@@ -85,7 +85,9 @@
                 <td>{{biker.email}}</td>
                 <td>{{biker.city}}</td>
                 <td>{{biker.rideInGroup}}</td>
-                <td>{{biker.sun}}, {{biker.mon}}, {{biker.tue}}, {{biker.wed}}, {{biker.thu}}, {{biker.fri}}, {{biker.sat}}</td>
+                <td>{{biker.sun ? 'Sun, ' : ''}} {{biker.mon ? 'Mon, ' : ''}} {{biker.tue ? 'Tue, ' : ''}} {{biker.wed ? 'Wed, ' : ''}}
+                    {{biker.thu ? 'Thu, ' : ''}} {{biker.fri ? 'Fri, ' : ''}} {{biker.sat ? 'Sat, ' : ''}}
+                </td>
                 <td>{{biker.registration | date:'short'}}</td>
                 <td><a (click)="deleteBiker(biker)" class="pull-right"><i class="fa fa-trash-o"></i></a></td>
             </tr>
