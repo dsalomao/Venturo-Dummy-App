@@ -4,8 +4,8 @@ this is the complete test project for the venturo dummy app.
 
 # Running the project:
 I utilized npm javascript module loader to load and manage project dependencies.
-1 - download and install node.js
-2 - download and install npm.
+1 - download and install node.js \n
+2 - download and install npm. \n
 3 - run "npm install" inside main foulder (this ill install all package.json dependencies)
 4 - run "npm run typings -- install dt~core-js --save --global"
 5 - run "npm run typings -- install dt~node --save --global"
